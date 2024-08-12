@@ -23,7 +23,7 @@ export default function SignUpFailedScreen({navigation}: any) {
         source={require('../assets/icons/success-image-4.png')}
         style={styles.image}
       />
-      <Text style={styles.h1Text}>User successfully registered</Text>
+      <Text style={styles.h1Text}>That email is already registered</Text>
       <Button
         title="Try again"
         onPress={() => navigation.navigate('RegisterScreen')}
