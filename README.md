@@ -5,8 +5,9 @@
 <img width="369" alt="Снимок экрана 2024-08-12 в 13 40 52" src="https://github.com/user-attachments/assets/978b98e5-2018-4949-8753-ed88a01c0536">
 <img width="369" alt="Снимок экрана 2024-08-12 в 14 03 04" src="https://github.com/user-attachments/assets/4a21ee12-aeac-47af-80ac-855f81723a60">
 <img width="369" alt="Снимок экрана 2024-08-12 в 14 02 54" src="https://github.com/user-attachments/assets/ac4faae2-e009-4b8d-8d15-58167640022c">
-![Снимок экрана 2024-08-12 в 19 22 54](https://github.com/user-attachments/assets/d7b9e4d7-5494-4ec1-914b-05219b55d5b9)
-![Снимок экрана 2024-08-12 в 19 25 43](https://github.com/user-attachments/assets/f5ed93cc-272c-4039-96b4-a253d303c425)
+![Снимок экрана 2024-08-12 в 19 25 43](https://github.com/user-attachments/assets/241cc21a-b96f-437c-8b74-bbdc02a6f268)
+![Снимок экрана 2024-08-12 в 19 22 54](https://github.com/user-attachments/assets/8bc4890f-e797-43b8-8ac9-34b72df900aa)
+
 
 
 
