@@ -2,6 +2,9 @@
 <img width="368" alt="Снимок экрана 2024-08-12 в 13 38 44" src="https://github.com/user-attachments/assets/92e6c00a-08d1-4b36-9df9-b527dc51363b">
 <img width="369" alt="Снимок экрана 2024-08-12 в 13 40 44" src="https://github.com/user-attachments/assets/8c6e1a37-1adc-4347-b51e-77ff5c86483c">
 <img width="368" alt="Снимок экрана 2024-08-12 в 13 39 25" src="https://github.com/user-attachments/assets/5bc4d66d-651e-4237-8a19-63d33a83ee8f">
+<img width="369" alt="Снимок экрана 2024-08-12 в 13 40 52" src="https://github.com/user-attachments/assets/978b98e5-2018-4949-8753-ed88a01c0536">
+<img width="369" alt="Снимок экрана 2024-08-12 в 14 03 04" src="https://github.com/user-attachments/assets/4a21ee12-aeac-47af-80ac-855f81723a60">
+<img width="369" alt="Снимок экрана 2024-08-12 в 14 02 54" src="https://github.com/user-attachments/assets/ac4faae2-e009-4b8d-8d15-58167640022c">
 
 
 ## Описание проекта
