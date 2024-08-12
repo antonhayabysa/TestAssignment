@@ -1,4 +1,8 @@
 # TestAssignment
+<img width="368" alt="Снимок экрана 2024-08-12 в 13 38 44" src="https://github.com/user-attachments/assets/92e6c00a-08d1-4b36-9df9-b527dc51363b">
+<img width="369" alt="Снимок экрана 2024-08-12 в 13 40 44" src="https://github.com/user-attachments/assets/8c6e1a37-1adc-4347-b51e-77ff5c86483c">
+<img width="368" alt="Снимок экрана 2024-08-12 в 13 39 25" src="https://github.com/user-attachments/assets/5bc4d66d-651e-4237-8a19-63d33a83ee8f">
+
 
 ## Описание проекта
 
@@ -11,10 +15,6 @@
 
 ## Установка и настройка
 
-1. Клонируйте репозиторий:
-
-   git clone <https://github.com/your-repository-url.git>
-   cd TestAssignment
 Установите зависимости:
 
 Копировать код
